@@ -42,10 +42,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1,1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled individual with experience in Python and JavaScript, 
-        and expertise in framworks like React, DJango, and Three.js. I'm a quick learner
-        and collaborate closely with peers to create efficient, scalable, and user-friendly 
-        solutions that solve real-world problems. Let's work together to bring your ideas to life!
+        I'm a software engineer skilled in Java, Python, and JavaScript, with hands-on experience in frameworks like React, Django, and Three.js. I specialize in building scalable, user-friendly solutions—ranging from enterprise-grade applications to Gen AI-powered tools. A fast learner and strong collaborator, I'm passionate about solving real-world problems through clean, efficient code. Let's turn your ideas into impactful digital experiences!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
